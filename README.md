@@ -3,6 +3,11 @@
 # dataviz
 This is a new portfolio project
 
+
+## Notebook
+
+This is the [main notebook to explore](https://github.com/noahgift/dataviz/blob/main/dataviz.ipynb)
+
 ## Exploratory Data Analysis
 
 This is an example of an image:
