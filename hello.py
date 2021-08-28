@@ -1,4 +1,4 @@
-var=
+#var=
 
 def one():
     return 1
