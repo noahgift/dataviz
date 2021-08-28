@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/noahgift/dataviz/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/dataviz/actions/workflows/main.yml)
+
 # dataviz
 This is a new portfolio project
 
